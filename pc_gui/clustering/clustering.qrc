@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/clustering">
+        <file>konvick.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+/pc_gui/x64
+/pc_gui/clustering_lib/x64
+/pc_gui/clustering/x64
+/pc_gui/.vs
+/katherine_plugin/RemoteSystemsTempFiles
+/katherine_plugin/debugger
+/katherine_plugin/plugin_template/Release
+/katherine_plugin/plugin_template/Debug
+/pc_gui/clustering/.vs
+/plugin/plugin/Debug
+/plugin/plugin/debugger
+/plugin/plugin/Release
+/plugin/.metadata
